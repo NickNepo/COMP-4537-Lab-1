@@ -1,3 +1,4 @@
+//Code created with assistance from Gemini
 class Note {
     constructor(content) {
         this.content = content;
